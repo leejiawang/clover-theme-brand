@@ -5,7 +5,7 @@
 [English](README_EN.md) | [中文](README.md)
 
 ## Preview
-![Clover screenshot](https://i.imgur.com/abZgqpo.png)
+![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/screenshot.png)
 
 ## Installation
 
