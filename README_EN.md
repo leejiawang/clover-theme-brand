@@ -5,16 +5,16 @@
 > Brand-style theme for Clover,including such as Dell, Asus, Lenovo, Xiaomi, Huawei, etc.
 
 ## Preview
-![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/souce/screenshot.png)
+![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/sources/screenshot.png)
 
-![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/souce/banner.png)
+![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/sources/banner.png)
 
 ## Installation
 
 - Clone or download the ZIP of this repo to your Clover theme directory (in /EFI/CLOVER/themes, located on the EFI system partition). Then, edit your Clover config.plist to select the theme.
-- To change other brands, you need to change theme.plist file (in Theme/Badges/Banner )  modify the image name against the table below，And place the corresponding image in the theme root from the souce folder.
+- To change other brands, you need to change theme.plist file (in Theme/Badges/Banner )  modify the image name against the table below，And place the corresponding image in the theme root from the sources folder.
 
- ![Clover tutorial](https://github.com/leejiawang/clover-theme-XPS15/blob/master/souce/tutorial.png)
+ ![Clover tutorial](https://github.com/leejiawang/clover-theme-XPS15/blob/master/sources/tutorial.png)
 
  Brand | Name 
  :-: | :-:
