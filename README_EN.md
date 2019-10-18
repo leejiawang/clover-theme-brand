@@ -1,4 +1,4 @@
-# clover-theme-XPS15
+# clover-theme-Dell
 
 > Dell-style theme for Clover (originally by bootcamp 2.0).
 
