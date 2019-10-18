@@ -1,4 +1,4 @@
-# clover-theme-XPS15
+# clover-theme-Dell
 
 > 本主题基于JahStories的bootcamp 2.0主题，更改logo为Dell。
 
