@@ -1,12 +1,11 @@
 # Clover Brand Theme
+![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/sources/banner.png)
 
 [English](README_EN.md) | [中文](README.md)
 
 > 本主题基于JahStories的bootcamp 2.0主题，替换成了各品牌的logo，如戴尔、华硕、联想、小米、华为等。
 
 ## 预览
-![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/sources/banner.png)
-
 ![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/sources/screenshot.png)
 
 ## 特性
