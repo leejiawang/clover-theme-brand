@@ -1,4 +1,4 @@
-# XPS15-9560-Catalina
+# clover-theme-XPS15
 
 > Dell-style theme for Clover (originally by bootcamp 2.0).
 
