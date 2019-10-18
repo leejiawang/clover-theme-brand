@@ -1,9 +1,8 @@
 # Clover Brand Theme
 ![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/sources/banner.png)
+> Brand-style theme for Clover,including such as Dell, Asus, Lenovo, Xiaomi, Huawei, etc.
 
 [English](README_EN.md) | [中文](README.md)
-
-> Brand-style theme for Clover,including such as Dell, Asus, Lenovo, Xiaomi, Huawei, etc.
 
 ## Preview
 ![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/sources/screenshot.png)
