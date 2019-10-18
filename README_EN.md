@@ -6,7 +6,7 @@
 
 ## Preview
 ![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/screenshot.png)
-
+![Dome](https://github.com/leejiawang/clover-theme-XPS15/blob/master/banner.jpg)
 ## Installation
 
 - Clone or download the ZIP of this repo to your Clover theme directory (in /EFI/CLOVER/themes, located on the EFI system partition). Then, edit your Clover config.plist to select the theme.
@@ -14,7 +14,7 @@
 
  ![Clover tutorial](https://github.com/leejiawang/clover-theme-XPS15/blob/master/tutorial.png)
 
-![Dome](https://github.com/leejiawang/clover-theme-XPS15/blob/master/banner.jpg)
+
  
  Brand | Name 
  :-: | :-:

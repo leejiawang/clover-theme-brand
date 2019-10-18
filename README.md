@@ -8,6 +8,7 @@
 ![Clover screenshot](https://github.com/leejiawang/clover-theme-XPS15/blob/master/screenshot.png)
 
 ## 特性
+![Dome](https://github.com/leejiawang/clover-theme-XPS15/blob/master/banner.jpg)
 - 简洁全黑背景，拥有多种电脑品牌供选择
 - 隐藏了非系统分区（保留了Windows分区以及macOS恢复分区）
 
@@ -16,8 +17,6 @@
 - 如需更换其他品牌，你需要修改theme.plist文件，将其中的 Theme/Badges/Banner 值改为对应品牌的图片名。
 
 ![Clover tutorial](https://github.com/leejiawang/clover-theme-XPS15/blob/master/tutorial.png)
-
-![Dome](https://github.com/leejiawang/clover-theme-XPS15/blob/master/banner.jpg)
 
  品牌 | 图名 
  :-: | :-:
