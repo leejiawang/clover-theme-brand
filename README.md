@@ -4,10 +4,10 @@
 [English](README_EN.md) | [中文](README.md)
 
 ## 预览
-![Clover screenshot](/source/screenshot.png)
+![Clover screenshot](https://github.com/leejiawang/clover-theme-brand/blob/master/sources/screenshot.png)
 
 ## 特性
-![Clover screenshot](https://cdn1.imggmi.com/uploads/2019/10/20/bc82c535e2f1380265cfc1a6bae583de-full.png)
+![Clover screenshot](https://github.com/leejiawang/clover-theme-brand/blob/master/sources/banner.png)
 - 简洁全黑背景，拥有多种电脑品牌供选择
 - 隐藏了非系统分区（保留了Windows分区以及macOS恢复分区）
 
@@ -15,7 +15,7 @@
 - 将此仓库的压缩包克隆或下载到您的Clover主题目录（位于EFI系统分区上的 /EFI/CLOVER/themes 中），然后编辑您的Clover config.plist中的主题名字以选择主题。
 - 如需更换其他品牌，你需要修改theme.plist文件，将其中的 Theme/Badges/Banner 值改为对应品牌的图片名，并从sources文件夹中将对应图片放置在主题根目录。
 
-![Clover tutorial](https://cdn1.imggmi.com/uploads/2019/10/20/6f73a4f95cab9d60fa927c15ea56bfa0-full.png)
+![Clover tutorial](https://github.com/leejiawang/clover-theme-brand/blob/master/sources/tutorial.png)
 
  品牌 | 图名 
  :-: | :-:
