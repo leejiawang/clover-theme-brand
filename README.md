@@ -4,7 +4,7 @@
 [English](README_EN.md) | [中文](README.md)
 
 ## 预览
-![Clover screenshot](https://cdn1.imggmi.com/uploads/2019/10/20/4c476ba3ab25c67b4bd31b82e800b0f8-full.png)
+![Clover screenshot](/source/screenshot.png)
 
 ## 特性
 ![Clover screenshot](https://cdn1.imggmi.com/uploads/2019/10/20/bc82c535e2f1380265cfc1a6bae583de-full.png)
