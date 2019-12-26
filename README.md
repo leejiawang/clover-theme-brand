@@ -1,7 +1,7 @@
 # Clover Brand Theme
 > 本主题基于JahStories的bootcamp 2.0主题，替换成了各品牌的logo，如戴尔、华硕、联想、小米、华为等。
 
-[English](README_EN.md) | [中文](README.md)
+[English](README_EN.md) | [中文](README.md) | [简易黑苹果安装教程](https://blog.eyecus.com/hackintosh/install/)
 
 ## 预览
 ![Clover screenshot](https://github.com/leejiawang/clover-theme-brand/blob/master/sources/screenshot.png)
